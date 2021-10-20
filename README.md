@@ -3,7 +3,7 @@
 
 Adapted from: [A Cloud Guru | Launching an EC2 instance in a Custom Virtual Private Cloud (VPC)](https://learn.acloud.guru/handson/7e6a058b-92d1-468b-8ad0-b499029e5337/course/aws-certified-cloud-practitioner)
 
-Overview:
+## Overview
 ![](https://i.ibb.co/QQSgtLB/AF43-CCB6-C1-D8-49-AB-BF53-2702-A6-D11577.png)
 
 ```
